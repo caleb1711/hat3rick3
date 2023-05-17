@@ -19,6 +19,7 @@ h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     color: #252525;
+
 }
 
 #logo {
@@ -26,6 +27,7 @@ h2 {
     font-size: 280%;
     margin-left: 30px;
     letter-spacing: 3px;
+    
 }
 
 #menu,
@@ -113,9 +115,10 @@ h2 {
     position: absolute;
 }
 
-#club-ethos {
+#sec {
     height: 600px;
 }
+
 
 hr {
     border-top: 1px solid #3a3a3a;
@@ -175,6 +178,29 @@ hr {
     font-size: 280%;
 }
 
+#this {
+     text-align: center;
+    margin: 20px 0;
+    font-size: 120%;
+    padding-top: 20%;
+    float: left;
+    
+
+}
+#cute {
+    color: #006400;
+}
+h2 {
+    color: #005200;
+}
+
+
+#jb {
+    text-transform: uppercase;
+    font-size: 65%;
+
+}
+
 
 
 #circle-container {
@@ -189,7 +215,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url('../images/ethos-center-image.jpg') no-repeat center center;
+    background: url('../images/team1.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 
@@ -210,7 +236,7 @@ hr {
     width: 20%;
     height: 300px;
     float: left;
-    padding: 30px 0 0 10px;
+    /* padding: 30px 0 0 10px; */
     text-align: center;
     border: 2px solid white;
     box-sizing: border-box;
