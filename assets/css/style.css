@@ -186,13 +186,14 @@ hr {
     font-size: 120%;
     padding-top: 15%;
     float: left;
-    margin-left: 25%;
+    margin-left: 27%;
     
 
 }
 #cute {
     color: #252525;
     font-size: 164%;
+    margin-right: 20%;
 }
 /* h2 {
     color: #005200;
@@ -376,27 +377,28 @@ footer {
 
     }
 
-    #photos {
-        column-count: 3;
-    }
+  
 
 
-}
 
-@media screen and (max-width: 800px) {
-    #photos {
-        column-count: 2;
-    }
 
 }
 
 .form-section {
     clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
-    background-size: cover;
+    background: url('../images/firstball.jpg');
     background-position: center;
-    height: 900px;
+    height: 650px;
 }
+
+/* #spb {
+        height: 600px;
+    width: 100%;
+    background: url('../images/firstball.jpg');
+    overflow: hidden;
+} */
+
+
 
 .signup-form {
     margin: 150px 10% 0 0;
