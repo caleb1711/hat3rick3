@@ -184,9 +184,9 @@ hr {
      text-align: center;
     margin: 20px 0;
     font-size: 120%;
-    padding-top: 20%;
+    padding-top: 15%;
     float: left;
-    margin-left: 30%;
+    margin-left: 25%;
     
 
 }
@@ -276,7 +276,7 @@ footer {
 }
 .social-networks .qlas {
      color: #3a3a3a;
-     font-size: 120%;
+     font-size: 110%;
      text-decoration: none;
 }
 .social-networks .qlas i {
@@ -327,6 +327,8 @@ footer {
         width: 100%;
         float: left;
         padding: 0;
+        
+        
     }
 
     hr {
