@@ -1,3 +1,4 @@
+/* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
 
 * {
@@ -6,7 +7,7 @@
     border: none;
 
 }
-
+/* Structural CSS */
 body {
     font-family: Lato, sans-serif;
     font-weight: 300;
@@ -296,6 +297,8 @@ footer {
     width: 100%;
 }
 
+/* Media queries */
+
 @media screen and (max-width: 1200px) {
     #club-ethos {
         width: 65%;
@@ -391,12 +394,7 @@ footer {
     height: 650px;
 }
 
-/* #spb {
-        height: 600px;
-    width: 100%;
-    background: url('../images/firstball.jpg');
-    overflow: hidden;
-} */
+/*  */
 
 
 
