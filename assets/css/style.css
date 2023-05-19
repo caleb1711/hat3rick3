@@ -311,12 +311,6 @@ footer {
         margin: 0;
     }
 
-@media screen and (max-width: 950px) {
-    #conts {
-        left: 0;
-    }
-
-
     #times>div {
         width: 100%;
         clear: both;
@@ -346,6 +340,9 @@ footer {
     }
 }
 
+
+
+
 @media screen and (max-width: 950px) {
     #menu {
         clear: left;
@@ -356,7 +353,7 @@ footer {
 
     }
 
-    #cover-text {
+    #conts {
         left: 0;
 
     }
@@ -385,20 +382,21 @@ footer {
         padding: 0 20px;
 
     }
+}
 
   
 
 
-
-
+#spb {
+ background: url('../images/firstball.jpg');
 }
-
+/* 
 .form-section {
     clear: left;
     background: url('../images/firstball.jpg');
     background-position: center;
     height: 650px;
-}
+} */
 
 /*  */
 
@@ -448,3 +446,13 @@ footer {
     background-color: #fafafa;
     color: #f16c6b;
 }
+ 
+.form-section {
+    clear: left;
+    background: url('../images/firstball.jpg');
+    background-position: center;
+    height: 650px; }
+
+    .space {
+        letter-spacing: 2px;
+    }
